@@ -9,3 +9,9 @@
 - Automated activity feed polling (10s).
 - Blocker tracking and productivity charts.
 - File upload support.
+- ## Dashboard Screenshots
+### Project Overview
+![Dashboard View 1](./dashboard1.png)
+
+### Live Activity Feed
+![Dashboard View 2](./dashboard2.png)
